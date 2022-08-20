@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Wanghs0716!
+- 👀 I’m interested in many things, such as reading and programming ...
+- 🌱 I’m currently learning C++ and Java.
+- 💞️ I’m not looking to collaborate on, because I am a student ...
+- 📫 You can reach me by WeChat(wxid_mngnhkxtje4x22) and phonecall(+86 18310399895).
+- Have a nice Day !!!
